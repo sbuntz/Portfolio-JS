@@ -4,9 +4,9 @@
 ## Description 
 The purpose of this project is to develop a portfolio page to display our web development projects
 
- ![Screenshot](dist/assets/images/screenshot.png)
+View at https://sbuntz.github.io/Portfolio/
 
- ![Screenshot]
+ ![Screenshot](dist/assets/images/screenshot.png)
 
 
 ## Table of Contents
