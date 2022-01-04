@@ -6,7 +6,7 @@ The purpose of this project is to develop a portfolio page to display our web de
 
 View at https://sbuntz.github.io/Portfolio/
 
- ![Screenshot](dist/assets/images/screenshot.png)
+ ![Screenshot](/assets/images/screenshot.png)
 
 
 ## Table of Contents
